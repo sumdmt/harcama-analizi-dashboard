@@ -1,16 +1,36 @@
-# Harcama Analizi Dashboardu
+# Personal Expense Analysis Dashboard
 
-Power BI kullanılarak oluşturulmuş kişisel harcama analiz projesidir.
+Bu proje, Power BI kullanılarak oluşturulmuş kişisel harcama analiz dashboardudur.
+
+## Proje Özeti
+
+Bu dashboard ile kullanıcıların harcamaları:
+
+* Toplam harcama
+* Kategori bazlı dağılım
+* Kullanıcı bazlı analiz
+* Zaman bazlı değişim
+
+görselleştirilmiştir.
+
+## Kullanılan Teknolojiler
+
+* Power BI
+* SQL
+* DAX
+
+## Proje Dosyaları
+
+* `personal-expense-dashboard.pbix` → Dashboard dosyası
+* `queries.sql` → Veri hazırlama SQL sorguları
+* `dashboard.png` → Dashboard ekran görüntüsü
 
 ## Özellikler
 
-- Toplam harcama analizi
-- Kategori bazlı analiz
-- Kullanıcı bazlı analiz
-- Zaman bazlı analiz
-- İnteraktif filtreleme (slicer)
+* İnteraktif filtreleme (Slicer)
+* Dinamik veri analizi
+* Kullanıcı ve kategori bazlı analiz
 
-## Araçlar
+## Dashboard Görseli
 
-- Power BI
-- DAX
+![Dashboard](dashboard.png)
