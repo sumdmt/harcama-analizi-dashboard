@@ -1,4 +1,4 @@
-# Personal Expense Analysis Dashboard
+# Harcama Analizi Dashboardu
 
 Bu proje, Power BI kullanılarak oluşturulmuş kişisel harcama analiz dashboardudur.
 
