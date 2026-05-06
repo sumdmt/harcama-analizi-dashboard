@@ -34,3 +34,7 @@ görselleştirilmiştir.
 ## Dashboard Görseli
 
 ![Dashboard](dashboard.png)
+
+## Diyagram Görseli
+
+![Dashboard](dashboard.png)
