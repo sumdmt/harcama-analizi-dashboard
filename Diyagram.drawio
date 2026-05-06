@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ciYVWpm0nUcTKxSqjYFY" name="Sayfa-1">
+    <mxGraphModel dx="2241" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Başla" vertex="1">
+          <mxGeometry height="80" width="80" x="-120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-24" edge="1" parent="1" source="0_mBsqrhU2NvRSCvWs38-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0_mBsqrhU2NvRSCvWs38-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kullanıcı harcama girer" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Bütçe aşıldı mı?" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-4" edge="1" parent="1" source="0_mBsqrhU2NvRSCvWs38-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0_mBsqrhU2NvRSCvWs38-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="140" y="370" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="0_mBsqrhU2NvRSCvWs38-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-8" edge="1" parent="1" source="0_mBsqrhU2NvRSCvWs38-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="0_mBsqrhU2NvRSCvWs38-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="580" y="410" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistem veriyi kaydeder" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uyarı göster" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Bitir" vertex="1">
+          <mxGeometry height="80" width="80" x="660" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-18" edge="1" parent="1" source="0_mBsqrhU2NvRSCvWs38-13" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="0_mBsqrhU2NvRSCvWs38-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="340" as="sourcePoint" />
+            <mxPoint x="720" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dashboard güncelle" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Bitir" vertex="1">
+          <mxGeometry height="80" width="80" x="660" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-22" edge="1" parent="1" source="0_mBsqrhU2NvRSCvWs38-19" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="0_mBsqrhU2NvRSCvWs38-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="675" y="580" as="sourcePoint" />
+            <mxPoint x="725" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0_mBsqrhU2NvRSCvWs38-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0_mBsqrhU2NvRSCvWs38-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
