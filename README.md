@@ -35,10 +35,11 @@ görselleştirilmiştir.
 
 ![Dashboard](dashboard.png)
 
-## Proje Raporu
-
-[Proje Raporunu Görüntüle](harcama-analizi-raporu.pdf)
 
 ## Diyagram Görseli
 
 ![Dashboard](model.png)
+
+## Proje Raporu
+
+[Proje Raporunu Görüntüle](harcama-analizi-raporu.docx)
