@@ -33,7 +33,7 @@ görselleştirilmiştir.
 
 ## Dashboard Görseli
 
-![Dashboard](dashboard.png)
+![Dashboard](model.png)
 
 ## Diyagram Görseli
 
