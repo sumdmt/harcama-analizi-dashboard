@@ -40,6 +40,4 @@ görselleştirilmiştir.
 
 ![Dashboard](model.png)
 
-## Proje Raporu
 
-[Proje Raporunu Görüntüle](harcama-analizi-raporu.docx)
